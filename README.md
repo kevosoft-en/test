@@ -1,0 +1,1 @@
+Git saves a lot when writing codes Right.
